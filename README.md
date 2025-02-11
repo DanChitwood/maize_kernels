@@ -1,2 +1,2 @@
 # maize_kernels
-a repository trying to automate detection of maize kernel tips
+a repository for the analysis of maíz kernel shape
